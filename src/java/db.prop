@@ -1,0 +1,7 @@
+# Recuerda: 1= ORACLE 2= MySQL
+driver=2
+host=localhost
+puerto=3306
+base_datos=gestion_academica
+usuario=damuser23
+password=damuser
